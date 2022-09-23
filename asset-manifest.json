@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/first-dapp/static/css/main.f0bcee13.chunk.css",
+    "main.js": "/first-dapp/static/js/main.52ffa09c.chunk.js",
+    "main.js.map": "/first-dapp/static/js/main.52ffa09c.chunk.js.map",
+    "runtime-main.js": "/first-dapp/static/js/runtime-main.def9948f.js",
+    "runtime-main.js.map": "/first-dapp/static/js/runtime-main.def9948f.js.map",
+    "static/js/2.d994aac1.chunk.js": "/first-dapp/static/js/2.d994aac1.chunk.js",
+    "static/js/2.d994aac1.chunk.js.map": "/first-dapp/static/js/2.d994aac1.chunk.js.map",
+    "static/js/3.bfbd721d.chunk.js": "/first-dapp/static/js/3.bfbd721d.chunk.js",
+    "static/js/3.bfbd721d.chunk.js.map": "/first-dapp/static/js/3.bfbd721d.chunk.js.map",
+    "index.html": "/first-dapp/index.html",
+    "static/css/main.f0bcee13.chunk.css.map": "/first-dapp/static/css/main.f0bcee13.chunk.css.map",
+    "static/js/2.d994aac1.chunk.js.LICENSE.txt": "/first-dapp/static/js/2.d994aac1.chunk.js.LICENSE.txt",
+    "static/media/alchemylogo.9821dc1c.svg": "/first-dapp/static/media/alchemylogo.9821dc1c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.def9948f.js",
+    "static/js/2.d994aac1.chunk.js",
+    "static/css/main.f0bcee13.chunk.css",
+    "static/js/main.52ffa09c.chunk.js"
+  ]
+}
